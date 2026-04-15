@@ -38,7 +38,7 @@ This project creates a **3D Valentine Proposal Experience** with animations, mus
 
 ```
 📁 project-folder
- ┣ 📄 valentine.html
+ ┣ 📄 theam.html
  ┗ 📄 README.md
 ```
 
@@ -49,7 +49,7 @@ This project creates a **3D Valentine Proposal Experience** with animations, mus
 ### 💻 On VS Code
 
 1. Open VS Code
-2. Create a new file → `valentine.html`
+2. Create a new file → `theam.html`
 3. Paste the full code
 4. Right click → **Open with Live Server**
 
