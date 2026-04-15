@@ -132,8 +132,10 @@ messageBox.innerHTML = "Your custom message";
 ---
 
 ## 👨‍💻 Author
-
-Made with ❤️ by **Ashish ranjan**
+- 👤 Name: Ashish Ranjan  
+- 📧 Email: ashishranjan11211@gmail.com  
+- 🔗 LinkedIn: https://linkedin.com/in/ashishranjanji09
+- 🌐 Website: https://ranjanstudy.blogspot.com
 
 ---
 
