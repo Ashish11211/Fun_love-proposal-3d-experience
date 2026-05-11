@@ -32,15 +32,6 @@ This project creates a **3D Valentine Proposal Experience** with animations, mus
 * CSS3 (Animations + Glassmorphism + 3D Effects)
 * JavaScript (DOM + Web Audio API + Animations)
 
----
-
-## 📂 Project Structure
-
-```
-📁 project-folder
- ┣ 📄 theam.html
- ┗ 📄 README.md
-```
 
 ---
 
